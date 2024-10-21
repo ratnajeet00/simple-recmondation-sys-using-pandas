@@ -47,7 +47,7 @@ Fight Club
 The Matrix
 Gladiator
 ```
-#Future Improvements
+# Future Improvements
 Integrate a larger dataset or pull data from a movie database API.
 Implement a user interface for better interaction.
 Allow users to input their ratings to improve recommendations dynamically.
